@@ -1,0 +1,11 @@
+[package]
+name = "hello"
+authors = ["BBaoVanC <bbaovanc@bbaovanc.com>"]
+version = "0.1.0"
+edition = "2018"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.4"
